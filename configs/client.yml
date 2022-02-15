@@ -1,0 +1,16 @@
+name: Modus Operandi
+main_window:
+  height: 1024
+  width: 768
+shortcut_window:
+  name: shortcut
+  height:
+  width: 400
+notification_window:
+  name: notification
+  height:
+  width:
+creation_window:
+  name: new instruction
+  height: 400
+  width: 400
